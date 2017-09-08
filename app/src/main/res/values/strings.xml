@@ -1,3 +1,9 @@
 <resources>
-    <string name="app_name">lab2-calculator</string>
+    <string name="app_name">lab2</string>
+    <string name="_5000">5000</string>
+    <string name="_7">7</string>
+    <string name="_7_5">7.5</string>
+    <string name="monthlyPayment"></string>
+    <string name="totalPayment"></string>
+    <string name="totalInterest"></string>
 </resources>
